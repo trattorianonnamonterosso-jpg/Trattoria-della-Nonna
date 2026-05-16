@@ -1,0 +1,8 @@
+{
+  "name": "Trattoria della Nonna - Menù Digitale",
+  "description": "Un menù digitale elegante, minimale e bilingue per smartphone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
